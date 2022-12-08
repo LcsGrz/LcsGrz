@@ -4,8 +4,6 @@
 
 <!-- Fin header -->
 
-<br>
-
 <!-- Mis redes -->
 
 <div align="center">
@@ -179,8 +177,6 @@
 </div>
 
 <!-- Fin escrito -->
-
-<br>
 
 <!-- Footer -->
 
