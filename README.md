@@ -1,9 +1,12 @@
-# 
-# 
+<!-- Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=header" />
+
+<!-- Fin header -->
 
 <br>
 
-<!-- Mis Redes -->
+<!-- Mis redes -->
 
 <div align="center">
     <a href="https://www.instagram.com/lcs.grz/" target="_blank">
@@ -50,9 +53,13 @@
     </a> 
 </div>
   
-# 
-# 
+<!-- Fin mis redes -->
 
+<br>
+
+#
+
+<br>
 <br>
 
 <!-- Mi presentacion -->
@@ -63,9 +70,13 @@
     </a>
 </div>
 
-# 
-# 
+<!-- Fin mi presentacion -->
 
+<br>
+
+#
+
+<br>
 <br>
 
 <!-- Estadisticas -->
@@ -77,9 +88,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsGrz&layout=compact&langs_count=6&theme=tokyonight&count_private=true&hide_border=true" />
 </div>
 
-#
-# 
+<!-- Fin estadisticas -->
   
+<br>
+
+#
+
+<br>
 <br>
  
  <!-- Lenguajes - Herramientas -->
@@ -105,10 +120,14 @@
     &#8287;
     <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
-# 
-# 
  
+<!-- Fin lenguajes - Herramientas -->
+ 
+<br>
+
+#
+
+<br>
 <br>
 
 <!-- Sumario -->
@@ -117,9 +136,13 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LcsGrz&theme=tokyonight" />
 </div>
 
-# 
-# 
+<!-- Fin sumario -->
 
+<br>
+
+#
+
+<br>
 <br>
 
 <!-- Medallas -->
@@ -140,19 +163,27 @@
     </a>
 </div>
 
-# 
-# 
+<!-- Fin medallas -->
 
 <br>
 
+#
+
+<br>
+<br>
+
 <!-- Escrito -->
+
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?&theme=tokyonight&quote=No+somos+dioses,+solo+somos+programadores&author=Los+dioses" />
 </div>
 
-# 
-# 
+<!-- Fin escrito -->
 
 <br>
 
-<!-- falta la viborita -->
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer" />
+
+<!-- Fin footer -->
