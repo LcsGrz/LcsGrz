@@ -89,24 +89,19 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 
 ## Proyectos Open Source
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-        <td width="280">
-            <a href="https://github.com/LcsGrz/arcli">
-                <img src="./assets/arcliChip.png" alt="ARCLI, CLI para comprobantes electrónicos de ARCA" width="280" />
-            </a>
-            <p align="right">
-                <a href="https://www.npmjs.com/package/arcli">
-                    <img src="https://img.shields.io/npm/v/arcli?style=flat-square" alt="npm version" />
-                </a>
-                &nbsp;
-                <a href="https://github.com/LcsGrz/arcli/blob/main/LICENSE">
-                    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
-                </a>
-            </p>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="https://github.com/LcsGrz/arcli">
+        <img src="./assets/arcliChip.png" alt="ARCLI, CLI para comprobantes electrónicos de ARCA" width="420" />
+    </a>
+    <br />
+    <a href="https://www.npmjs.com/package/arcli">
+        <img src="https://img.shields.io/npm/v/arcli?style=flat-square" alt="npm version" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/LcsGrz/arcli/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
+    </a>
+</div>
 
 <br>
 
