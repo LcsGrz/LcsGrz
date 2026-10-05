@@ -64,11 +64,55 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=628FDA&center=true&vCenter=true&width=435&lines=%3CReactNativeDeveloper%2F%3E" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=628FDA&center=true&vCenter=true&width=435&lines=%3CSeniorReactNativeDeveloper%2F%3E" alt="Typing SVG" />
     </a>
 </div>
 
+<br>
+
+Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cross-platform para iOS y Android. Trabajo con React Native y TypeScript, con foco en mobile architecture, performance optimization, plataformas multi-brand y AI-augmented engineering.
+
+- Más de 40 releases de producción para iOS y Android.
+- Reduje el tiempo de carga de turnos de 3,35 s a casi cero mediante prefetching.
+- Creé workflows de desarrollo con IA que redujeron cerca de un 45 % el trabajo repetitivo.
+
 <!-- Fin mi presentacion -->
+
+<br>
+
+#
+
+<br>
+<br>
+
+<!-- OpenSource -->
+
+## Proyectos Open Source
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="280">
+            <a href="https://github.com/LcsGrz/arcli">
+                <img src="./assets/arcliChip.png" alt="ARCLI, CLI para comprobantes electrónicos de ARCA" width="280" />
+            </a>
+            <p align="right">
+                <a href="https://www.npmjs.com/package/arcli">
+                    <img src="https://img.shields.io/npm/v/arcli?style=flat-square" alt="npm version" />
+                </a>
+                &nbsp;
+                <a href="https://github.com/LcsGrz/arcli/blob/main/LICENSE">
+                    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+[CLI open source para ARCA](https://github.com/LcsGrz/arcli) que permite previsualizar y emitir comprobantes electrónicos desde la terminal. Incluye un asistente interactivo, comandos para automatizaciones y exportación a PDF.
+
+<!-- Fin OpenSource -->
 
 <br>
 
@@ -87,6 +131,18 @@
     &#8287;
     &#8287;
     <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    &#8287;
+    &#8287;
+    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" />
+    &#8287;
+    &#8287;
+    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
+    &#8287;
+    &#8287;
+    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    &#8287;
+    &#8287;
+    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     &#8287;
     &#8287;
     <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
