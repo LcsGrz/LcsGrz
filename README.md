@@ -7,18 +7,13 @@
 <!-- Mis redes -->
 
 <div align="center">
-    <a href="https://www.instagram.com/lcs.grz/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-bf009a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-    </a>
-    &#8287;
-    &#8287;
     <a href="mailto:lucas.gerez@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-f14336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
     </a>
     &#8287;
     &#8287;
     <a href="https://drive.google.com/file/d/1XwHL8PfSvH2t-kCRX8BVEU7e5W4NeKfa" target="_blank">
-        <img src="https://img.shields.io/badge/-Curriculum-455a64?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/-Curriculum-455a64?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
     </a> 
 </div>
 &#8287;
@@ -79,15 +74,12 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 <!-- Fin mi presentacion -->
 
 <br>
-
-#
-
 <br>
 <br>
 
-<!-- OpenSource -->
+<!-- Proyectos -->
 
-## Proyectos Open Source
+## Proyectos
 
 <div align="center">
     <a href="https://github.com/LcsGrz/arcli">
@@ -107,7 +99,7 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 
 [CLI open source para ARCA](https://github.com/LcsGrz/arcli) que permite previsualizar y emitir comprobantes electrónicos desde la terminal. Incluye un asistente interactivo, comandos para automatizaciones y exportación a PDF.
 
-<!-- Fin OpenSource -->
+<!-- Fin Proyectos -->
 
 <br>
 
