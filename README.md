@@ -33,24 +33,13 @@
         <img src="https://img.shields.io/badge/-HackerRank-2fc363?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" />
     </a> 
 </div>
-&#8287;
-&#8287;
-<div align="center">
-    <a href="https://psnprofiles.com/LcsGrz" target="_blank">
-        <img src="https://img.shields.io/badge/-PlayStation-0150c5?style=for-the-badge&logo=playstation&logoColor=white" target="_blank" />
-    </a> 
-    &#8287;
-    &#8287;
-    <a href="steamcommunity.com/id/LcsGrz" target="_blank">
-        <img src="https://img.shields.io/badge/-Steam-133265?style=for-the-badge&logo=steam&logoColor=white" target="_blank" />
-    </a> 
-</div>
   
 <!-- Fin mis redes -->
 
 <br>
+<br>
 
-#
+---
 
 <br>
 <br>
@@ -67,31 +56,42 @@
 
 Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cross-platform para iOS y Android. Trabajo con React Native y TypeScript, con foco en mobile architecture, performance optimization, plataformas multi-brand y AI-augmented engineering.
 
-- Más de 40 releases de producción para iOS y Android.
+- Publiqué más de 40 releases para iOS y Android, con despliegues graduales en 16 clínicas del Reino Unido.
 - Reduje el tiempo de carga de turnos de 3,35 s a casi cero mediante prefetching.
-- Creé workflows de desarrollo con IA que redujeron cerca de un 45 % el trabajo repetitivo.
+- Llevé una app a una arquitectura multi-brand en monorepo, habilitando 2 marcas desde una base compartida.
+- Automaticé tareas de desarrollo con skills, subagentes e integraciones MCP, reduciendo cerca de un 45 % el trabajo repetitivo.
+- Contribuí al desarrollo de productos para Mars Petcare, Dolby y Tenpo, en los sectores de salud, streaming y fintech.
 
 <!-- Fin mi presentacion -->
 
-<br>
-<br>
 <br>
 
 <!-- Proyectos -->
 
 ## Proyectos
 
+<br>
+<br />
+
 <div align="center">
     <a href="https://github.com/LcsGrz/arcli">
         <img src="./assets/arcliChip.png" alt="ARCLI, CLI para comprobantes electrónicos de ARCA" width="420" />
     </a>
     <br />
+    <a href="https://github.com/LcsGrz/arcli">
+        <img src="https://img.shields.io/github/stars/LcsGrz/arcli?style=flat-square&color=628FDA&labelColor=24283B" alt="GitHub stars" />
+    </a>
+    &nbsp;
     <a href="https://www.npmjs.com/package/arcli">
-        <img src="https://img.shields.io/npm/v/arcli?style=flat-square" alt="npm version" />
+        <img src="https://img.shields.io/npm/v/arcli?style=flat-square&color=628FDA&labelColor=24283B" alt="npm version" />
+    </a>
+    &nbsp;
+    <a href="https://www.npmjs.com/package/arcli">
+        <img src="https://img.shields.io/npm/dm/arcli?style=flat-square&color=628FDA&labelColor=24283B" alt="Monthly npm downloads" />
     </a>
     &nbsp;
     <a href="https://github.com/LcsGrz/arcli/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
+        <img src="https://img.shields.io/badge/license-MIT-628FDA?style=flat-square&labelColor=24283B" alt="MIT License" />
     </a>
 </div>
 
@@ -102,56 +102,86 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 <!-- Fin Proyectos -->
 
 <br>
+<br />
 
-#
-
-<br>
-<br>
- 
  <!-- Lenguajes - Herramientas -->
+
+## Stack y herramientas
+
+<br>
+<br>
  
-<div style="display: inline_block" align="center">
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    &#8287;
-    &#8287;
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<div align="center">
+    <strong>Mobile y frontend</strong><br />
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" title="React Native" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" title="Expo" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
+    <br /><br /><br />
+    <strong>Estado y testing</strong><br />
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit y RTK Query" title="Redux Toolkit y RTK Query" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/Zustand-24283B?style=for-the-badge" alt="Zustand" title="Zustand" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" title="Jest" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/Detox-24283B?style=for-the-badge" alt="Detox" title="Detox" />
+    <br />
+    <sub>Appium · Storybook</sub>
+    <br /><br /><br />
+    <strong>Plataforma y entrega</strong><br />
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/CI%2FCD-24283B?style=for-the-badge" alt="CI/CD" title="CI/CD" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" alt="Sentry" title="Sentry" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" alt="Datadog" title="Datadog" />
+    &nbsp;
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+    <br />
+    <sub>CircleCI · Docker</sub>
+    <br />
+    <sub>AppsFlyer deep links · Okta · GA4 · feature flags · monorepos</sub>
+    <br /><br /><br />
+    <strong>IA aplicada al desarrollo</strong><br />
+    <img height="28" src="https://img.shields.io/badge/GitHub_Copilot-24283B?style=for-the-badge&logo=githubcopilot&logoColor=BB9AF7" alt="GitHub Copilot" title="GitHub Copilot" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/Claude_Code-24283B?style=for-the-badge&logo=claude&logoColor=BB9AF7" alt="Claude Code" title="Claude Code" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/Paperclip-24283B?style=for-the-badge" alt="Paperclip" title="Paperclip" />
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/MCP-24283B?style=for-the-badge" alt="Model Context Protocol" title="Model Context Protocol" />
+    <br />
+    <sub>Custom agent skills · subagent workflows · MCP integrations</sub>
 </div>
  
 <!-- Fin lenguajes - Herramientas -->
  
 <br>
 
-#
+<br>
+
+---
 
 <br>
 <br>
+
 
 <!-- Sumario -->
 
@@ -162,27 +192,27 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 <!-- Fin sumario -->
 
 <br>
-
-#
-
 <br>
+
+---
+
 <br>
 
 <!-- Medallas -->
 
 <div align="center">
     <a href="https://github.com/LcsGrz?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LcsGrz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LcsGrz?color=628FDA&labelColor=24283B&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
     &#8287;
     &#8287;
     <a href="https://github.com/LcsGrz?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LcsGrz?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LcsGrz?color=628FDA&style=for-the-badge&labelColor=24283B&logo=star" />
     </a>
     &#8287;
     &#8287;
-    <a href="https://komarev.com/ghpvc/?username=LcsGrz&color=blueviolet&style=for-the-badge&label=VISITORS">
-        <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=LcsGrz&color=blueviolet&style=for-the-badge&label=VISITORS" />
+    <a href="https://komarev.com/ghpvc/?username=LcsGrz&color=628FDA&style=for-the-badge&label=VISITORS">
+        <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=LcsGrz&color=628FDA&style=for-the-badge&label=VISITORS" />
     </a>
 </div>
 
@@ -190,10 +220,11 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 
 <br>
 
-#
+---
 
 <br>
 <br>
+
 
 <!-- Escrito -->
 
@@ -202,6 +233,8 @@ Desarrollador mobile con más de 8 años de experiencia creando aplicaciones cro
 </div>
 
 <!-- Fin escrito -->
+
+
 
 <!-- Footer -->
 
